@@ -165,7 +165,7 @@ class _TelaForcaState extends State<TelaForca> {
             // Adicionando o boneco da forca com partes do corpo
             Image.asset(
               'assets/forca$_partesDoCorpo.png',
-              height: 240,
+              height: 200,
             ),
             SizedBox(height: 20.0),
             Text(
