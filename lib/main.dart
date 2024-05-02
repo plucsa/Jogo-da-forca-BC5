@@ -151,7 +151,7 @@ class _TelaForcaState extends State<TelaForca> {
               padding: const EdgeInsets.only(right: 8.0),
               child: Image.asset(
                 'assets/logo.png',
-                height: 40,
+                height: 55,
               ),
             ),
             Text('Jogo da Forca'),
